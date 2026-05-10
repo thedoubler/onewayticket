@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tail:*)",
+      "Bash(head:*)",
+      "Bash(curl:*)",
+      "WebSearch",
+      "WebFetch(domain:developer.hotelbeds.com)",
+      "WebFetch(domain:www.altexsoft.com)",
+      "WebFetch(domain:date.nager.at)",
+      "WebFetch(domain:www.npmjs.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(npm install:*)",
+      "Bash(npx next build:*)",
+      "Bash(python3:*)",
+      "Bash(pkill:*)",
+      "Bash(npx next dev:*)",
+      "Bash(lsof:*)",
+      "Bash(xargs:*)",
+      "Bash(node:*)",
+      "WebFetch(domain:support.travelpayouts.com)",
+      "WebFetch(domain:www.omio.com)",
+      "Bash(npx tsc:*)"
+    ]
+  }
+}
